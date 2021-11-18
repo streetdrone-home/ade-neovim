@@ -16,4 +16,5 @@ export ADE_IMAGES="
 ```
 
 ## TODO
-Also install additional dev dependencis (e.g. ripgrep, lazygit)
+* Install additional dev dependencis (e.g. ripgrep, lazygit)
+* Clone your dotfiles
